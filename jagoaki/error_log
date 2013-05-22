@@ -1,2 +1,0 @@
-[30-Apr-2013 23:28:54] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/program/public_html/apps/yii/framework/web/helpers/CHtml.php on line 1765
-[01-May-2013 02:39:13] PHP Fatal error:  Call to a member function getErrors() on a non-object in /home/program/public_html/apps/yii/framework/web/helpers/CHtml.php on line 1765
